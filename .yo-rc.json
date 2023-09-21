@@ -1,0 +1,17 @@
+{
+  "generator-ui5-ts-app": {
+    "namespace": "test",
+    "framework": "OpenUI5",
+    "frameworkVersion": "1.118.0",
+    "author": "Floyd Nguyen",
+    "initrepo": true,
+    "tstypes": "@openui5/types",
+    "tstypesVersion": "1.118.0",
+    "appId": "test",
+    "appURI": "test",
+    "cdnDomain": "sdk.openui5.org",
+    "defaultTheme": "sap_horizon",
+    "gte11150": true,
+    "setupCompleted": true
+  }
+}
